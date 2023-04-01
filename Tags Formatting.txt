@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang = "en" dir="ltr"
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content = "IE=edge">
+<title> HTML TAGS FORMATTING </title>
+</head>
+<body>
+    <center><h1> <b>Quick Recipe for Hummus</b></h1></center>
+<hr> 
+
+<blockquote cite = "https://www.webmd.com/diet/hummus-recipe-and-benefits">
+<center><p><em>The debate over the origin of hummus</em> The Greeks like to claim it as their own, but the <Strong>Arabs are equally adamant</Strong> in their claims. Even 
+                the<q>Israeli's claim it, but we'll get to that later.</q> So, who is right?</p></center>
+</blockquote>
+<hr>
+<dl>
+    <center><dt><h3><b></span><Strong>Hummus</Strong></b></h3></dt></center>
+    <dd>
+        <ul>Humus is dark, organic material that forms in soil when plant and animal matter decays.
+            When plants drop leaves, twigs, and other material to the ground <img border="2" alt=Hummus" src="https://media.istockphoto.com/id/1183678932/photo/hand-checking-soil-on-ground-at-vegetable-garden.jpg?s=612x612&w=0&k=20&c=6Kdcabjf2LqFiiccr6XZojKKgc4FVgQaPDUjaJ_3AOE=" alt-logo width = 150 height="150">,
+            it piles up. This material is called leaf litter. When animals die, their remains add to the litter. Over time, all this litter decomposes. This means it decays, or breaks down, into its most basic chemical elements. Many of these
+            chemicals are important nutrients for the soil and organisms that depend on soil for life, such as plants.</ul>
+    </dd>
+</dl>
+<hr>
+<center>
+    <a href="https://www.youtube.com/watch?v=R7WpjZwAWQA" target="_blank"
+      ><img
+        border="5"
+        alt="Hummus"
+        src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/08/Hummus-main-1.jpg"
+        alt-logo
+        width="200"
+        height="200"
+    /></a>
+    <br />
+    <a href="https://www.youtube.com/watch?v=R7WpjZwAWQA" target="_blank"
+      >Hummus Recipe</a
+    >
+    <br />
+    <a href="mailto:alessandra.pauline.sanchez@adamson.edu.ph"
+      >Send EMAIL to the Author</a
+    >
+  </center>
+  <hr />
+<ul> <b><mark>Ingredients: </b> </mark>
+<ul><li> 1 can <strong> <sup> (400g) </sup> </strong>of Chickpeas (garbanzo beans) </li></ul>
+<ul><li> 1 can (400g) <strong> <sub> of Chickpeas </strong></sub> (garbanzo beans) </11></ul>
+<ul><li>Half a red pepper </li></ul>
+<ul><li> A pinch of cayenne pepper </li></ul>
+<ul><li> 1 clove of garlic </li></ul>
+<ul><li> A dash of olive oil</li></ul>
+</ul>
+<p>
+<ol><b><mark> Instruction: </mark></b>
+<ul><li>Remove the skin from the garlic, and chop coarsely </li></ul>
+<ul><li> Remove all the seeds and stalk from the pepper, and chop coarsely </li></ul>
+<ul><li>Add all the ingredients into a food processor </li></ul>
+<ul><li>If you want a smooth hummus, process it for a longer time </li></ul> 
+<ul><li> For a different flavor, you could try blending in a small measure of lemon and coriander, chiliharissa and mint.</li></ul>
+<ul><li>Storage Refrigerate the finished hummus in a sealed container. </11></ul>
+</ol>
+</p>
+<hr>
+<center>
+<time><h3> <strong>March 3,2023 </strong> </time></h3> 
+<pre>
+<h4>Hummus is a delicious spread or dip made from chickpeas, tahini, lemon, and spices. 
+It's commonly eaten in the Middle East and the Mediterranean. </h4>
+</pre>
+</center>
+<hr/>
+</body>
+
